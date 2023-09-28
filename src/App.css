@@ -1,0 +1,14 @@
+/* App.css */
+* {
+  font-family: "Arial", sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+  /* box-sizing: border-box; */
+}
+.app {
+  min-height: 98.5vh;
+  border: 8px solid gray;
+  margin: 5px;
+  padding: 5px;
+}
